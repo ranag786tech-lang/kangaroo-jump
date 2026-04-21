@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: #0f172a;
+  font-family: monospace;
+}
+
+canvas {
+  display: block;
+}
+
+#ui {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  color: #fff;
+}
+
+#leaderboard {
+  margin-top: 10px;
+  font-size: 14px;
+}
